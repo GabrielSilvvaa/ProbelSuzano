@@ -1,6 +1,7 @@
 # Probel Suzano 🛏️
 
 Website developed for Probel Suzano to present the store and its products and make customer contact easier.
+(Remember, this site wasn`t make with Vibe Coding, ignore the mistakes, is my first website)
 
 ## 🚀 Technologies
 
